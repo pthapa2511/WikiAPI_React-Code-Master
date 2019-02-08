@@ -1,0 +1,7 @@
+{
+	"port": 8080,
+	"wikipedia_baseURL": "https://en.wikipedia.org/api/rest_v1",
+	"wikipedia_detailUrl": "https://en.wikipedia.org/wiki/",
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"]
+}

@@ -1,0 +1,12 @@
+{
+	"port": 8080,
+	"wikipedia_baseURL": "https://en.wikipedia.org/api/rest_v1",
+	"wikipedia_wiki": "https://en.wikipedia.org/wiki/",
+	"wikipedia_asia_media":"https://en.wikipedia.org/wiki/List_of_metropolitan_areas_in_Asia#/media",
+	"wikipedia": "https://en.wikipedia.org",
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"]
+}
+
+
+
